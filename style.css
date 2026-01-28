@@ -18,7 +18,7 @@ html,body{
       rgba(11,15,25,0.85),
       rgba(11,15,25,0.85)
     ),
-    url("background_img.jpg") no-repeat center center fixed;
+    url("background_img.png") no-repeat center center fixed;
 
   background-size: cover;
   color:var(--text);
