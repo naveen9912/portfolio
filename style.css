@@ -27,7 +27,7 @@ html,body{
     radial-gradient(900px 600px at 20% 10%, rgba(122,162,255,0.22), transparent 60%),
     radial-gradient(700px 500px at 80% 20%, rgba(122,162,255,0.12), transparent 55%),
     linear-gradient(rgba(11,15,25,0.82), rgba(11,15,25,0.82)),
-    url("background_img.jpg") center / cover no-repeat fixed;
+    url("background_img.png") center / cover no-repeat fixed;
 
   color:var(--text);
 }
